@@ -1,0 +1,35 @@
+{
+    "name": "pianoly/omnipay-billplz2",
+    "type": "library",
+    "description": "Billplz support for Omnipay payment processing library",
+    "keywords": [
+        "Billplz",
+        "gateway",
+        "merchant",
+        "omnipay",
+        "pay",
+        "payment",
+        "purchase"
+    ],
+    "homepage": "https://github.com/pianoly/omnipay-billplz2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sufian",
+            "email": "muhamad.sufian.saharuddin@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Omnipay\\Billplz\\" : "src/" }
+    },
+    "require": {
+        "omnipay/common": "^3",
+        "php-http/guzzle6-adapter": "^2"
+    },
+    "require-dev": {
+        "omnipay/tests": "^3"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
