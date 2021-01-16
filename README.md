@@ -1,5 +1,5 @@
 # Omnipay: Billplz
-[![Build Status](https://travis-ci.org/pianoly/omnipay-billplz2.svg?branch=master)](https://travis-ci.org/pianoly/omnipay-billplz2)
+[![Build Status](https://travis-ci.org/PiaNoly/omnipay-billplz2.svg?branch=master)](https://travis-ci.org/PiaNoly/omnipay-billplz2)
 
 **(Unofficial) Billplz driver for the Omnipay PHP payment processing library**
 
@@ -16,7 +16,7 @@ to your `composer.json` file:
 
 ```json
     "require": {
-        "pianoly/omnipay-billplz2": "^3.0"
+        "PiaNoly/omnipay-billplz2": "^3.0"
     }
 ```
 
@@ -25,7 +25,7 @@ and repositories
     "repositories": {
         "omnipay-billplz2": {
             "type": "vcs",
-            "url": "https://github.com/pianoly/omnipay-billplz2"
+            "url": "https://github.com/PiaNoly/omnipay-billplz2"
         }
     }
 ```
@@ -139,5 +139,5 @@ If you want to keep up to date with release anouncements, discuss ideas for the 
 or ask more detailed questions, there is also a [mailing list](https://groups.google.com/forum/#!forum/omnipay) which
 you can subscribe to.
 
-If you believe you have found a bug, please report it using the [GitHub issue tracker](https://github.com/pianoly/omnipay-billplz2/issues),
+If you believe you have found a bug, please report it using the [GitHub issue tracker](https://github.com/PiaNoly/omnipay-billplz2/issues),
 or better yet, fork the library and submit a pull request.
